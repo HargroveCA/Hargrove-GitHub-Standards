@@ -1,6 +1,8 @@
 # Hargrove-GitHub-Standards
 Everything you need to know about GitHub for Hargrove and how to contribute to Hargrove software development projects.
 
+_**Important: visit the [Hargrove GitHub Wiki](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki) after reading this document.**_
+
 ![Hargrove + GitHub](https://github.com/HargroveCA/Hargrove-GitHub-Standards/blob/master/Images/Hargrove%20+%20GitHub.png?raw=true)
 
 # What is GitHub?
