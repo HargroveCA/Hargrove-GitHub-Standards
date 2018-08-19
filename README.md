@@ -1,6 +1,8 @@
 # Hargrove-GitHub-Standards
 Everything you need to know about GitHub for Hargrove and how to contribute to Hargrove software development projects.
 
+![Hargrove + GitHub](https://github.com/HargroveCA/Hargrove-GitHub-Standards/blob/master/Images/Hargrove%20+%20GitHub.png?raw=true)
+
 # What is GitHub?
 GitHub is a software development tool used to organize, standardize, and share software development projects from multiple contributors.  It handles important things like version control and contribution permissions.  You can think of GitHub as a software project management tool that keeps Corey from breaking things and helps Virgis build things.    
 
