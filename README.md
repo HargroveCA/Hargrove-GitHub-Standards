@@ -22,10 +22,13 @@ Hargrove's business model lives and dies on competitive bids and effecient proje
 # How to Contribute
 If you've read the above and want to show off your creation (or help other teamates improve theirs), visit [The-Hargrove-GitHub-Wiki](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki) to complete the below steps.
 
-1. Current State of the Union 
-2. Learn How to Use GitHub
-3. Review Hargrove GitHub Standards
-4. Review Current Hargrove Software Tools (Repositories)
+[1. How to Use GitHub](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki/1.-How-to-Use-GitHub)
+
+[2. Hargrove GitHub Standards](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki/2.-Hargrove-GitHub-Standards)
+
+[3. Hargrove Software Tools (Repositories)](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki/3.-Hargrove-Software-Tools)
+
+[4. Current State of the Union](https://github.com/HargroveCA/Hargrove-GitHub-Standards/wiki/4.-Current-State-of-The-Union)
 
 When the above steps are completed, email Thomas Roth TRoth@hargrove-epc.com, Corey Broussard CBroussard@hargrove-epc.com, or Chase Brumfield Cbrumfield@hargrove-epc.com for permission to begin participating and contributing.
 
