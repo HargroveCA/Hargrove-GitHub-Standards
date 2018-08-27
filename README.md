@@ -36,5 +36,3 @@ When the above steps are completed, email Thomas Roth TRoth@hargrove-epc.com, Co
 
 # A Final Thought
 Collaboration and knowledge-sharing is the idea here.  No egos or scrooges allowed.
-
-Adding test comment...
